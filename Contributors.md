@@ -2164,6 +2164,7 @@
 - [suin](https://github.com/suin-d)
 - [majwic](https://github.com/majwic)
 - [MC]
+- [James Oyebade](https://github.com/Bron-analytics)
 - [Drew Springfield](https://github.com/Sohlar)
 - [Prantix] (https://github.com/the1stenhancer)
 - [akis liolios](https://github.com/akis10)
